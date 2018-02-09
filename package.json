@@ -1,0 +1,26 @@
+{
+  "name": "restncloud",
+  "version": "0.2.0",
+  "description": "Module to interact with RESTnCloud API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReaperSoon/RESTnCloud-node.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "cloud",
+    "restncloud",
+    "restincloud"
+  ],
+  "author": "Steve Cohen <cohensteve@hotmail.fr> (http://stevecohen.fr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReaperSoon/RESTnCloud-node/issues"
+  },
+  "homepage": "https://github.com/ReaperSoon/RESTnCloud-node#readme"
+}
